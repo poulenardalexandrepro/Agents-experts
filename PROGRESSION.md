@@ -9,12 +9,12 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 
 ## Étape 1 · Comprendre le nouveau paradigme (≈ 1 h 30)
 
-- [ ] Regarder la vidéo « Partie 1 – Qu'est-ce qu'un agent IA ? » ([@DevOpsIA](https://www.youtube.com/@DevOpsIA))
-- [ ] Parcourir les diapositives 1 à 7 en lisant les notes de l'enseignant
-- [ ] Lire les parties 1 à 3 du cours écrit
+- [x] Regarder la vidéo « Partie 1 – Qu'est-ce qu'un agent IA ? » ([@DevOpsIA](https://www.youtube.com/@DevOpsIA))
+- [x] Parcourir les diapositives 1 à 7 en lisant les notes de l'enseignant
+- [x] Lire les parties 1 à 3 du cours écrit
 - [ ] Faire le quiz 1 : [lien du quiz 1]
-- [ ] Classer les 24 cartes : [exercices/01-tri-cartes.md](exercices/01-tri-cartes.md), puis comparer au corrigé
-- [ ] Écrire dans le carnet (en bas de ce fichier) : 3 phrases à retenir et 1 question
+- [x] Classer les 24 cartes : [exercices/01-tri-cartes.md](exercices/01-tri-cartes.md), puis comparer au corrigé
+- [x] Écrire dans le carnet (en bas de ce fichier) : 3 phrases à retenir et 1 question
 
 **Je valide si** : quiz 1 ≥ 4/5 et au plus 3 erreurs au tri. Mon score au quiz : … /5 · erreurs au tri : …
 
@@ -68,4 +68,17 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 
 ## 📓 Mon carnet
 
-<!-- Une entrée par session de travail : date, ce que j'ai fait, ce qui m'a bloqué, ce que je retiens. -->
+#### Session 01 : Étape 1 · Comprendre le nouveau paradigme (≈ 1 h 30) 
+Date : *18/11/2026*   
+A retenir :   
+- Les six étapes pour changer de façon de travailler : **le paradigme, le nouveau cycle, les agents experts, choisir et paramétrer, le nouveau rôle, mise en pratique .**
+- Le dépôt est le poste de travail.
+- Anatomie d'un agent expert.
+- L'importance des issue sans ambiguïté.
+- Dissocier les taches pour l'agent.
+- Les taches sont automatisé via **GitHub actions (CI)**.
+- L'**agent code**, écrit le code brut sans (Claude...).
+- Orchestre, drige ou valide c'est le rôle de l'**humain**.
+
+#### Session 02 : 
+Date : *xx/11/2026* 
