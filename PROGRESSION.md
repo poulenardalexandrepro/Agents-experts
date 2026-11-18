@@ -33,7 +33,7 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 - [ ] Compléter [AGENTS.md](AGENTS.md) pour BiblioTech (pile, commandes, règles)
 - [ ] Écrire `.github/agents/relecteur-securite.agent.md` et `.github/agents/testeur.agent.md`
 - [ ] Vérifier mes fichiers avec [exercices/03-liste-bon-agent.md](exercices/03-liste-bon-agent.md), puis les comparer au corrigé
-- [ ] Faire le quiz 3 : [lien du quiz 3]
+- [ ] Faire le quiz 3 : 
 
 
 ## Étape 4 · Projet : une fonctionnalité, deux agents, une décision (≈ 3 h)
@@ -75,4 +75,6 @@ A retenir :
 - Orchestre, drige ou valide c'est le rôle de l'**humain**.
 
 #### Session 02 : 
-Date : *xx/11/2026* 
+Date : *18/11/2026* 
+A retenir :
+- Les sept agents experts avec les agents, étapes, il fait, il ne fait pas, outils, modèles
