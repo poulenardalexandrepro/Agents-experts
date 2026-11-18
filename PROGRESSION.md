@@ -12,21 +12,19 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 - [x] Regarder la vidéo « Partie 1 – Qu'est-ce qu'un agent IA ? » ([@DevOpsIA](https://www.youtube.com/@DevOpsIA))
 - [x] Parcourir les diapositives 1 à 7 en lisant les notes de l'enseignant
 - [x] Lire les parties 1 à 3 du cours écrit
-- [ ] Faire le quiz 1 : [lien du quiz 1]
+- [x] Faire le quiz 1 : 4/5
 - [x] Classer les 24 cartes : [exercices/01-tri-cartes.md](exercices/01-tri-cartes.md), puis comparer au corrigé
 - [x] Écrire dans le carnet (en bas de ce fichier) : 3 phrases à retenir et 1 question
 
-**Je valide si** : quiz 1 ≥ 4/5 et au plus 3 erreurs au tri. Mon score au quiz : … /5 · erreurs au tri : …
 
 ## Étape 2 · Connaître les agents experts (≈ 1 h 30)
 
-- [ ] Regarder la vidéo « Partie 2 – Les sept agents experts »
-- [ ] Parcourir les diapositives 8 à 18 (une maquette d'interface par étape)
-- [ ] Remplir 2 fiches [exercices/02-fiche-agent.md](exercices/02-fiche-agent.md), dont le relecteur sécurité
-- [ ] Comparer mes fiches au corrigé et corriger
-- [ ] Faire le quiz 2 : [lien du quiz 2]
+- [x] Regarder la vidéo « Partie 2 – Les sept agents experts »
+- [x] Parcourir les diapositives 8 à 18 (une maquette d'interface par étape)
+- [x] Remplir 2 fiches [exercices/02-fiche-agent.md](exercices/02-fiche-agent.md), dont le relecteur sécurité
+- [x] Comparer mes fiches au corrigé et corriger
+- [x] Faire le quiz 2 : 5/5
 
-**Je valide si** : quiz 2 ≥ 4/5 et fiches conformes au corrigé sur les outils et le modèle. Mon score : … /5
 
 ## Étape 3 · Choisir et paramétrer (≈ 2 h)
 
@@ -37,7 +35,6 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 - [ ] Vérifier mes fichiers avec [exercices/03-liste-bon-agent.md](exercices/03-liste-bon-agent.md), puis les comparer au corrigé
 - [ ] Faire le quiz 3 : [lien du quiz 3]
 
-**Je valide si** : les 6 points de la liste « un bon agent » sont cochés et quiz 3 ≥ 4/5. Mon score : … /5
 
 ## Étape 4 · Projet : une fonctionnalité, deux agents, une décision (≈ 3 h)
 
@@ -52,7 +49,6 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 - [ ] Jalon F — Fusionner une PR, fermer l'autre en justifiant mon choix par écrit
 - [ ] Jalon G — Ajouter 2 règles apprises dans AGENTS.md
 
-**Je valide si** : les 7 points de la grille de revue sont cochés et chaque jalon est fait. Liens : issue … · PR fusionnée … · PR fermée …
 
 ## Étape 5 · Bilan (≈ 45 min)
 
@@ -61,8 +57,6 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 - [ ] Remplir la grille [exercices/07-grille-auto-evaluation.md](exercices/07-grille-auto-evaluation.md) avec une preuve par ligne
 - [ ] Écrire dans le carnet ce que je changerai dans ma façon de coder
 - [ ] Optionnel : ouvrir une issue « Demande de retour » pour avoir l'avis de mon enseignant
-
-**Je valide si** : quiz final ≥ 7/10 et grille remplie avec une preuve par ligne. Mon score : … /10
 
 ---
 
