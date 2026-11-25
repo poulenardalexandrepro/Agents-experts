@@ -29,8 +29,8 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 ## Étape 3 · Choisir et paramétrer (≈ 2 h)
 
 - [X] Regarder la vidéo « Partie 3 – Choisir et paramétrer ses agents »
-- [ ] Ouvrir mon dépôt dans Codespaces
-- [ ] Compléter [AGENTS.md](AGENTS.md) pour BiblioTech (pile, commandes, règles)
+- [X] Ouvrir mon dépôt dans Codespaces
+- [X] Compléter [AGENTS.md](AGENTS.md) pour BiblioTech (pile, commandes, règles)
 - [ ] Écrire `.github/agents/relecteur-securite.agent.md` et `.github/agents/testeur.agent.md`
 - [ ] Vérifier mes fichiers avec [exercices/03-liste-bon-agent.md](exercices/03-liste-bon-agent.md), puis les comparer au corrigé
 - [ ] Faire le quiz 3 : 
