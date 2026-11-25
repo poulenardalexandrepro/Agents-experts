@@ -31,9 +31,9 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 - [X] Regarder la vidéo « Partie 3 – Choisir et paramétrer ses agents »
 - [X] Ouvrir mon dépôt dans Codespaces
 - [X] Compléter [AGENTS.md](AGENTS.md) pour BiblioTech (pile, commandes, règles)
-- [ ] Écrire `.github/agents/relecteur-securite.agent.md` et `.github/agents/testeur.agent.md`
-- [ ] Vérifier mes fichiers avec [exercices/03-liste-bon-agent.md](exercices/03-liste-bon-agent.md), puis les comparer au corrigé
-- [ ] Faire le quiz 3 : 
+- [X] Écrire `.github/agents/relecteur-securite.agent.md` et `.github/agents/testeur.agent.md`
+- [X] Vérifier mes fichiers avec [exercices/03-liste-bon-agent.md](exercices/03-liste-bon-agent.md), puis les comparer au corrigé
+- [X] Faire le quiz 3 : 5/5
 
 
 ## Étape 4 · Projet : une fonctionnalité, deux agents, une décision (≈ 3 h)
