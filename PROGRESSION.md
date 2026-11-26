@@ -41,7 +41,7 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 Énoncé complet : [exercices/04-projet-enonce.md](exercices/04-projet-enonce.md)
 
 - [X] Ma fonctionnalité : Export CSV du catalogue : Télécharger la liste des livres (titre, auteur, année, catégorie, disponibilité) au format CSV
-- [ ] Jalon A — Préparer : copier `exercices/modele-tests.yml` dans `.github/workflows/tests.yml`, vérifier qu'il est vert, protéger la branche `main`
+- [X] Jalon A — Préparer : copier `exercices/modele-tests.yml` dans `.github/workflows/tests.yml`, vérifier qu'il est vert, protéger la branche `main`
 - [ ] Jalon B — Rédiger l'issue (modèle « Tâche pour agent ») et la vérifier avec [exercices/05-liste-bonne-issue.md](exercices/05-liste-bonne-issue.md)
 - [ ] Jalon C — Écrire moi-même un test d'acceptation qui échoue
 - [ ] Jalon D — Déléguer la même tâche à deux agents ou deux modèles
