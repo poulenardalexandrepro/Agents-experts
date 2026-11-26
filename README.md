@@ -1,4 +1,4 @@
-# 🤖 Développer avec des agents IA — parcours en autonomie
+# Développer avec des agents IA — parcours en autonomie
 
 **BTS SIO SLAM · Bloc 2 — Conception et développement d'applications**
 
@@ -6,13 +6,13 @@ Ce dépôt est votre poste de travail pour un **parcours en autonomie** : vous a
 
 À la fin du parcours, vous savez faire produire une fonctionnalité par un agent IA sur GitHub, la contrôler et l'intégrer **sans perdre la maîtrise du code**.
 
-## 🚀 Pour commencer
+## Pour commencer
 
 1. Cliquez sur **Use this template → Create a new repository** pour créer **votre** dépôt.
 2. Dans votre dépôt : **Code → Codespaces → Create codespace on main**. L'installation de BiblioTech se fait toute seule (quelques minutes).
 3. Ouvrez **[PROGRESSION.md](PROGRESSION.md)** : tout le parcours y est, étape par étape. Cochez au fur et à mesure et faites un commit à chaque étape validée.
 
-## 🗺️ Le parcours (environ 9 h)
+## Le parcours (environ 9 h)
 
 | Étape | Durée indicative | Je valide si… |
 |---|---|---|
@@ -24,7 +24,7 @@ Ce dépôt est votre poste de travail pour un **parcours en autonomie** : vous a
 
 Si vous n'atteignez pas le critère d'une étape, reprenez la vidéo ou le cours, puis réessayez. Les quiz se refont autant de fois que nécessaire.
 
-## 📚 Les ressources
+## Les ressources
 
 | Ressource | Où |
 |---|---|
@@ -34,7 +34,7 @@ Si vous n'atteignez pas le critère d'une étape, reprenez la vidéo ou le cours
 | Corrigés | Dossier [corriges](corriges/) — à ouvrir **seulement après** avoir fait l'exercice |
 | Application BiblioTech | Dossier [projetLaravel](projetLaravel/) |
 
-## 🆘 Si vous bloquez
+## Si vous bloquez
 
 1. **Je cherche seul** : je revois la vidéo, la diapositive (avec ses notes) et la partie du cours indiquées.
 2. **Je demande à un pair** : je pose ma question dans l'onglet **Discussions** du dépôt modèle.
